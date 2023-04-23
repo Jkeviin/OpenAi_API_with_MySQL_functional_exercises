@@ -16,7 +16,7 @@ Este archivo contiene un ejemplo de cómo utilizar la API de OpenAI y MySQL para
 ### Requerimientos
 - Node.js
 - Clave de API de OpenAI
-- MySQL (para categoria.js)
+- MySQL (para categoria.js y SQL.js)
 
 ### Instalación
 1. Clonar el repositorio o descargar los archivos.
@@ -26,7 +26,7 @@ Este archivo contiene un ejemplo de cómo utilizar la API de OpenAI y MySQL para
 
 ### Variables de entorno
 - `OPENAI_API_KEY`: Clave de API de OpenAI.
-- `MYSQL_USER`: Usuario de MySQL (solo para categoria.js).
-- `MYSQL_PASSWORD`: Contraseña de MySQL (solo para categoria.js).
-- `MYSQL_HOST`: Host de MySQL (solo para categoria.js).
-- `MYSQL_DATABASE`: Nombre de la base de datos de MySQL (solo para categoria.js).
+- `MYSQL_USER`: Usuario de MySQL (solo para categoria.js y SQL.js)
+- `MYSQL_PASSWORD`: Contraseña de MySQL (solo para categoria.js y SQL.js)
+- `MYSQL_HOST`: Host de MySQL (solo para categoria.js y SQL.js)
+- `MYSQL_DATABASE`: Nombre de la base de datos de MySQL (solo para categoria.js y SQL.js)
